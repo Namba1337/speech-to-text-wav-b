@@ -1,3 +1,5 @@
 venv
-/.idea/
+.idea
 vosk-model-kz-0.15
+config.py
+audio.wav

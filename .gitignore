@@ -1,5 +1,8 @@
 venv
 .idea
 vosk-model-kz-0.15
+vosk-model-en-us-0.22-lgraph
+vosk-model-small-en-in-0.4
+vosk-model-small-hi-0.22
 config.py
 audio.wav
